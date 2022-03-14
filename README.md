@@ -1,6 +1,6 @@
 ### Pedro Soares 👋 - Desenvolvedor de software 📱
 
-Linguagens: Flutter, Python<br />
+Linguagens: Flutter/Dart, Python<br />
 Cursando: Ciencia da computação<br />
 Discord: pepesrs#2574
 
