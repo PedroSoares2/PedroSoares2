@@ -1,6 +1,6 @@
 ### Pedro Soares 👋 - Desenvolvedor de software - Back End 📱
 
-Linguagens: Java,C, Flutter/Dart, Python<br />
+Linguagens: Java, Spring ,C, Flutter/Dart, Python<br />
 Cursando: Ciencia da computação<br />
 Discord: pepesrs#2574
 
