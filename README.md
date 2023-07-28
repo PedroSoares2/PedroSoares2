@@ -1,4 +1,4 @@
-### Pedro Soares 👋 - Desenvolvedor de software - Back End 📱
+### Pedro Soares 👋 - Desenvolvedor de software📱
 
 Linguagens: Java, Spring ,C, Flutter/Dart, Python<br />
 Cursando: Ciencia da computação<br />
