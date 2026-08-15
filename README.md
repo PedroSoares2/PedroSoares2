@@ -1,4 +1,4 @@
-### Pedro Soares 👋 - Desenvolvedor de software📱
+### Pedro Souza 👋 - Desenvolvedor de software📱
 
 Backend | C# | .NET | ASP .NET Core />
 Cursando: Ciencia da computação<br />
